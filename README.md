@@ -7,7 +7,7 @@
 ![Snake](https://github.com/Hajorda/Hajorda/blob/7083d0a30ff37b3f5706207e514f17201ef6ed01/github-contribution-grid-snake.gif)
 <picture>
   
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="[github-snake.sv](https://github.com/Hajorda/Hajorda/blob/7083d0a30ff37b3f5706207e514f17201ef6ed01/github-contribution-grid-snake.gif)g" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
