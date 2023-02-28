@@ -4,4 +4,4 @@
   -  Mail: hajorda@gmail.com , hajorda@proton.me
   -  Discord: Hajorda#6261
 
-[alt text](https://svgshare.com/i/pEu.svg)
+![Snake](https://github.com/Hajorda/Hajorda/blob/7083d0a30ff37b3f5706207e514f17201ef6ed01/github-contribution-grid-snake.gif)
